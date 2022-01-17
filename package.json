@@ -1,0 +1,19 @@
+{
+  "name": "krasota",
+  "version": "1.0.0",
+  "description": "future is comming!\r check github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaGulnov/krasota.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaGulnov/krasota/issues"
+  },
+  "homepage": "https://github.com/SashaGulnov/krasota#readme"
+}
